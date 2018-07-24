@@ -11,4 +11,4 @@ puts "#{count} move(s) done!"
 end
 end 
 
-cupid shuffle 
+cupid_shuffle 
