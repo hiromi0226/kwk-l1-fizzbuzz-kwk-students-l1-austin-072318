@@ -1,7 +1,7 @@
 def cupid_shuffle
   count = 0 
 loop do 
-  if count == 3
+  if count == 13
  break 
  end 
   puts "to the right to the right to the right to the right"
